@@ -16,8 +16,8 @@
     % inside document
     \printbibliography[title=References]
     ```
-  * Bibliography style: [https://www.overleaf.com/learn/latex/biblatex_bibliography_styles](https://www.overleaf.com/learn/latex/biblatex_bibliography_styles)
-  * Citation ordering: [https://tex.stackexchange.com/questions/51434/biblatex-citation-order](https://tex.stackexchange.com/questions/51434/biblatex-citation-order)
-  * Highlight specific authors: [http://www.hansenlab.org/cv_bibliography_tex](http://www.hansenlab.org/cv_bibliography_tex)\
+  * [Bibliography style](https://www.overleaf.com/learn/latex/biblatex_bibliography_styles)
+  * [Citation ordering](https://tex.stackexchange.com/questions/51434/biblatex-citation-order)
+  * [Highlight specific authors](http://www.hansenlab.org/cv_bibliography_tex)\
   Note-1: This solution requires author annotation in the bibtex entry. I did not find a good way to annotate authors and then export bibtex entries in Mendeley.\
   Note-2: In case of _authoryear_ (e.g. _Saha et al. 2020_) citation, highlighted author names are bolded in the main text too (e.g. _**Saha** et al. 2020_), which is annoying. Numeric citation seems appropriate.
